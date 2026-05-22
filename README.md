@@ -1,4 +1,4 @@
-# projectRepo
+# Smart Security System
 The goal of the project is to create an affordable home security system that can be accessed anywhere on any device, displaying security updates and extra data that the user might find helpful for home management.
 
 The project falls in line with the Sustainable Development Goal (SDG) number seven, providing an affordable and clean energy way of monitoring a home, and goal eleven providing the community with a sustainable community, and goal sixteen proving the user with peace of mind and a way to serve justice Justis for any wrong doing done to the owner’s home or property.
